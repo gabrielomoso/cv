@@ -1,0 +1,33 @@
+img {
+  height: 200px;
+  border-radius: 50%;
+}
+
+body {
+  background-color: #6998AB;
+}
+
+.hover:hover {
+  height: 300px;
+  width: auto;
+}
+
+hr {
+  width: 20%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #AAAAAA;
+}
+
+h1 {
+  color: #1E212D;
+}
+
+h2 {
+  color: #1E212D;
+}
+
+h3 {
+  color: #1E212D;
+}
